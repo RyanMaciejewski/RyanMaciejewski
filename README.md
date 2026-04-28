@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm [Ryan Maciejewski]
 
-<!--
-**RyanMaciejewski/RyanMaciejewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring data scientist @ MSU | SQL, Python, Git, reproducible workflows
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building end-to-end data pipelines for business problems. Coursework in modern tools based on industry needs.
+
+You can find more details on my [portfolio page](https://ryanmaciejewski.github.io).
+
+## Featured Projects
+
+- SQL analytics notebook (link to pinned repo)
+- Python ETL pipeline (link to pinned repo)
+
+## Skills
+
+![Python](https://img.shields.io/badge/Python-Expert-green)
+![SQL](https://img.shields.io/badge/SQL-Fluent-blue)
+![Git](https://img.shields.io/badge/Git-Proficient-orange)
+
+## Connect
+
+[LinkedIn](www.linkedin.com/in/ryan-maciejewski-200597369) | [Email](mailto:maciej21@msu.edu)
