@@ -26,4 +26,4 @@ You can find more details on my [portfolio page](https://ryanmaciejewski.github.
 
 ## Connect
 
-[LinkedIn](www.linkedin.com/in/ryan-maciejewski-200597369) | [Email](mailto:maciej21@msu.edu)
+[LinkedIn](https://www.linkedin.com/in/ryan-maciejewski-200597369) | [Email](mailto:maciej21@msu.edu)
