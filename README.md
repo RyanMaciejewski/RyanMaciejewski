@@ -1,12 +1,12 @@
 # Hi, I'm Ryan Maciejewski
 
-Aspiring data scientist @ MSU | SQL, Python, Git, reproducible workflows
+Aspiring data scientist @ MSU with a B.S. in Genomics & Molecular Genetics | SQL, Python, Git
 
 ## About
 
-I am a data science student at Michigan State University with experience working on applied analytics, machine learning, and data visualization projects. My work often focuses on using Python, SQL, and statistical modeling to turn complex datasets into useful insights.
+I am a data science student at Michigan State University with a bachelor's degree in Genomics and Molecular Genetics from MSU. I have experience working on applied analytics, machine learning, and data visualization projects, with a focus on using Python, SQL, and statistical modeling to turn complex datasets into useful insights.
 
-I have worked on projects involving demand forecasting, business analytics, environmental data, genomics, and database-driven reporting. I am especially interested in applying data science methods to real-world problems through data modeling, evaluation, and visualization.
+I have worked on projects involving demand forecasting, business analytics, environmental data, genomics, and demographic data analysis. My background in genomics has strengthened my interest in working with complex data and applying data science methods to real-world problems through modeling, evaluation, and visualization.
 
 You can find more details on my [portfolio page](https://ryanmaciejewski.github.io).
 
